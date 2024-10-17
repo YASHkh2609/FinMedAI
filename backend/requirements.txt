@@ -1,0 +1,9 @@
+pandas
+groq
+fastapi 
+uvicorn 
+pyngrok
+python-multipart
+requests
+python-dotenv
+fuzzywuzzy
